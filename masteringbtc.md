@@ -26,6 +26,22 @@ Nodes track spendable transaction outputs, or outputs that have not yet been use
 The only exception to the output and input chain is the coinbase transaction. This transaction creates brand-new bitcoin by paying out the block reward to the miner that added the block to the blockchain. The input of this transaction is not a UTXO from a previous transaction, but rather a special type of input called the coinbase. This is also the process by which the bitcoin money supply increases until it hits the cap of 21 million bitcoin.
 
 
+# Keys, addresses
+
+Vanity addresses
+
+Compressed vs Uncompressed private keys
+
+Base 58
+
+P2SH and multisig addresses
+
+Generating keys
+
+y^2 mod p = (x^3 + 7) mod p
+
+one way hash functions
+
 # Glossary
 
 Mining  "mining," which involves competing to find solutions to a mathematical problem while processing bitcoin transactions.
@@ -36,3 +52,7 @@ global "election" every 10 minutes, allowing the decentralized network to arrive
 Nodes...computers connected to the bitcoin network
 
 Coinbase...the first transaction in every block
+
+
+Vanity addresses
+
