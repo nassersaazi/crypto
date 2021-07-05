@@ -42,6 +42,16 @@ y^2 mod p = (x^3 + 7) mod p
 
 one way hash functions
 
+# Wallets
+
+HD Wallets
+
+Gap limit
+
+Extended keys
+
+
+
 # Glossary
 
 Mining  "mining," which involves competing to find solutions to a mathematical problem while processing bitcoin transactions.
