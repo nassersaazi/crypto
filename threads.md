@@ -5,8 +5,14 @@
 --unchained,the breakdown, bankless
 # top crypto influencers(btc and eth)
 --cz,sbf,armstrong,pomp,danheld,vitalik,rsa,hoffman,chainlinkgod,hayden,,laura -- only verified ones
+# soft forks vs hard forks 
+# the DAO wars 
+# taproot upgrade
+# EIP 1559
+# some bankless podcast summaries
 # top defi protocols
-
+# optimistic vs zk-rollups
+# incentives in optimistic rollups
 # top crypto discord channels 
 --aave,consensys,uniswap,synthetix,
 # UTXO vs EOA and SC approach
