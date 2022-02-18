@@ -1,0 +1,8 @@
+INTRODUCTION
+
+-A fairness protocol is a way to achieve fair outcomes between participants, who do not need to trust each other, without the need for a central authority, and it is the backbone of decentralized systems like Bitcoin.
+
+Example of the Fairness Protocol
+The most prominent example of a fairness protocol is Bitcoin’s consensus algorithm, Proof of Work (PoW). In Bitcoin, miners compete to verify transactions and aggregate them in blocks. To ensure that the miners do not cheat, without entrusting them with authority, Bitcoin uses a system of incentives and disincentives. Miners have to use electricity and dedicate hardware doing "work" that is embedded as a "proof" inside every block. This is achieved because of a property of hash functions where the output value is randomly distributed across the entire range of possible outputs. If miners succeed in producing a valid block fast enough, they are rewarded by earning the block reward for that block. Forcing miners to use a lot of electricity before the network considers their block means that they have an incentive to correctly validate the transactions in the block. If they cheat or make any kind of mistake, their block is rejected and the electricity they used to "prove" it is wasted. No one needs to force miners to produce valid blocks; the reward and punishment incentivize them to do so. All the protocol needs to do is ensure that only valid blocks with Proof of Work are accepted.
+
+Fair outcomes are not enforced by any authority. They emerge as the natural consequence of a protocol that rewards fairness and punishes cheating, a fairness protocol that harnesses self-interest by directing it toward fair outcomes.
