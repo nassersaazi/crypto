@@ -13,4 +13,4 @@ Q: Biki bino byenneenyigiramu?
 A: Teli amanyi
 
 Q: Manya ntya ebisingawo?
-A: Waliwo bwino muyitilivu wano. Mpozzi osobola nookukeberako (https://www.lopp.net/bitcoin-information.html)
+A: Waliwo bwino muyitilivu wano. Mpozzi osobola nookulamburako ku (https://www.lopp.net/bitcoin-information.html)
